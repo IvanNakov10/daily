@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #80D6CB;
+    margin-bottom: 1.325em;
+    font-size: 1.4em;
+    font-weight: 700;
+    margin-top: 1.2em;
+}
+
+h2 {
+    color: #CCDE6E;
+    margin-bottom: 1.12em;
+    font-size: 1.35em;
+    font-weight: 600;
+}
+
+.main-p {
+    line-height: 32px;
+    font-size: 1.1em;
+    color: rgb(145, 145, 145);
+}
+
+.bg2 {
+    background-color: rgb(86, 193, 190);
+    border-bottom: white 2px solid;
+}
+
+.bg1 {
+
+    background-color: rgb(91, 198, 185);
+    padding-top: 1.25em;
+    border-bottom: white 1px solid;
+}
+
+.price {
+    font-size: 2.45em;
+}
+
+button {
+    width: 93vw;
+    height: 10vh;
+    background-color: #BFDF32;
+    color: white;
+    margin-bottom: 2em;
+    border-radius: 7.5px;
+    border: none;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+
+.perM {
+    font-size: 1em;
+    color: rgb(221, 221, 221);
+}
+
+.h42 {
+    margin-top: 2em;
+    font-size: 1.35em;
+    font-weight: 500;
+}
+
+p {
+    color: white;
+}
+
+.li {
+    color: rgba(255, 255, 255, 0.605);
+    line-height: 1.155em;
+    font-size: 0.9em;
+}
+
+h4 {
+    color: white;
+    margin-bottom: 2em;
+}
